@@ -1,0 +1,3 @@
+git clone https://github.com/koriavinash1/Optic-Disk-Cup-Segmentation.git
+cd Optic-Disk-Cup-Segmentation
+pip install -r requirements.txt
